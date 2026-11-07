@@ -71,6 +71,7 @@ main {
 .section h1,
 .section h2 h3 {
   color: #b03060;
+  margin-top: 0.75rem;
   margin-bottom: 0.75rem;
 }
 
